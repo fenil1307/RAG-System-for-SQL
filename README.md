@@ -27,7 +27,7 @@ A **Streamlit-based SQL chat assistant** powered by **Google Gemini API** that a
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-repo/chat-sql-gemini.git
+git clone https://github.com/fenil1307/RAG-System-for-SQL.git
 cd chat-sql-gemini
 ```
 
@@ -35,7 +35,7 @@ cd chat-sql-gemini
 ```sh
 python -m venv venv
 source venv/bin/activate  # For macOS/Linux
-venv\Scripts\activate  # For Windows
+
 ```
 
 ### 3️⃣ Install Dependencies
