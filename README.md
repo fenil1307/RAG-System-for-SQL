@@ -95,5 +95,5 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 💡 Contributors
-- **Your Name** – [GitHub](https://github.com/your-profile)  
+- **Your Name** – [GitHub](https://github.com/fenil1307)  
 - **Other Contributors** – Contributions welcome! 🚀
