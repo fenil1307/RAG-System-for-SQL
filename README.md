@@ -90,10 +90,10 @@ streamlit run app.py
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License**.
+This project is licensed under the **APACHE License**.
 
 ---
 
 ## 💡 Contributors
-- **Your Name** – [GitHub](https://github.com/fenil1307)  
-- **Other Contributors** – Contributions welcome! 🚀
+- **Github Name** – [GitHub](https://github.com/fenil1307)  
+
